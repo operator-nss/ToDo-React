@@ -31,7 +31,8 @@ const Main = () => {
 		const copyData = [...todos];
 		const current = copyData.find(item => id === item._id)
 		current.isComplete = !current.isComplete;
-		setTodos(copyData)
+		setTodos(copyData);
+		filterTodos(copyData);
 	}
 	
 

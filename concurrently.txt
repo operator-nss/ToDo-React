@@ -1,0 +1,1 @@
+concurrently "yarn start"   "npx json-server todos.json --port 3001"

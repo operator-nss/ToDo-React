@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "_id": "fdgdfgdfgdfg",
+      "title": "Some title",
+      "isComplete": true
+    },
+    {
+      "_id": "nanoidfgdfgdfgd",
+      "title": "Read book",
+      "isComplete": false
+    },
+    {
+      "_id": "fdgdfgdfgdfg",
+      "title": "Some title",
+      "isComplete": true
+    }
+  ]
+}
